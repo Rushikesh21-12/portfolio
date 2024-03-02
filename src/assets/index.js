@@ -17,7 +17,7 @@ import html from './tech/html.png';
 import javascript from './tech/javascript.png';
 import typescript from './tech/typescript.png';
 
-import tatvasoft from './company/TatvaSoft.jpg';
+import tatvasoft from './company/Tatvasoft.jpg';
 import segwitz from './company/Segwitz.jpg';
 import freelancer from './company/freelancer.jpg';
 
