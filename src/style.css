@@ -1,0 +1,13 @@
+body {
+	cursor: none;
+}
+
+#bg {
+	height: 700px;
+	width: 100vw;
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+}

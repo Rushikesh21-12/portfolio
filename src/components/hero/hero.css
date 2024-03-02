@@ -1,0 +1,38 @@
+.slidingTextContainer {
+	position: absolute;
+	font-size: 50vh;
+	bottom: -100px;
+	white-space: nowrap;
+	color: #ffffff09;
+	width: 50%;
+	font-weight: bold;
+}
+
+.myDetails {
+	position: absolute;
+}
+
+@media only screen and (max-width: 1000px) {
+	.myDetails {
+		position: static;
+		width: 100%;
+		padding-top: 80px;
+	}
+}
+
+#heroImage {
+	position: absolute;
+	right: 100px;
+	top: 05rem;
+	max-width: 18%;
+}
+
+@media (max-width: 768px) {
+	#heroImage {
+		right: auto;
+		top: -4rem;
+		position: relative;
+		margin: 0 auto;
+		max-width: 35%;
+	}
+}
